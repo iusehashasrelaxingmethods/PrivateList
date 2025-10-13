@@ -1,18 +1,18 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "CoreJump",
+        "link": "https://www.youtube.com/@corejumpgd"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Rico",
+        "link": "https://www.youtube.com/@PartyIsland69"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Rico",
+        "link": "https://www.youtube.com/@PartyIsland69"
     },
     {
         "role": "trial",
