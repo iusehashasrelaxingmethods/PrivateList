@@ -1,11 +1,11 @@
 {
-    "id": 110,
-    "name": "CRIM3S and Theft",
+    "id": 111,
+    "name": "CRIM3S and Theft.",
     "author": "ZynixGD",
     "creators": ["ZynixGD, Bagel"],
     "verifier": "ZynixGD",
     "Showcase": "https://youtu.be/6WDYlCxuXT0",
-    "percentToQualify": "62",
+    "percentToQualify": "29",
     "password": "Free to Copy",
     "records": [
         {
@@ -14,5 +14,11 @@
             "percent": 100,
             "hz": 180
         },
-        
-
+        {
+            "user": "No 2nd Victor!",
+            "link": "None.",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
