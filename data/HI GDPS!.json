@@ -1,1 +1,26 @@
+{
+    "id": 57436521,
+    "name": "HI GDPS!",
+    "author": "Bagel",
+    "creators": ["Bagel"],
+    "verifier": "Bagel",
+    "verification": "https://youtu.be/drFAVUoC-5g",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "ZynixGD",
+            "link": "https://youtu.be/drFAVUoC-5g",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "Link",
+            "link": "Not Available",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
+
 
