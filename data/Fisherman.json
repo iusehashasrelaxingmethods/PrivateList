@@ -1,1 +1,24 @@
-
+{
+    "id": 110,
+    "name": "Fisherman",
+    "author": "Bagel",
+    "creators": ["Bagel"],
+    "verifier": "Bagel",
+    "Showcase": "https://youtu.be/m-uWNvjcXVI",
+    "percentToQualify": "62",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "ZynixGD",
+            "link": "https://youtu.be/m-uWNvjcXVI",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "Link",
+            "link": "Footage Lost.",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
