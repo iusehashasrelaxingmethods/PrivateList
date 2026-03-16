@@ -2,22 +2,22 @@
     "id": 57436521,
     "name": "HI GDPS!",
     "author": "Bagel",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "creators": ["Bagel"],
+    "verifier": "Bagel",
+    "verification": "https://youtu.be/drFAVUoC-5g",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "Free to Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "ZynixGD",
+            "link": "https://youtu.be/drFAVUoC-5g",
             "percent": 100,
-            "hz": 360
+            "hz": 180
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
+            "user": "NONE",
+            "link": "...",
+            "percent": 0,
             "hz": 120
         }
     ]
