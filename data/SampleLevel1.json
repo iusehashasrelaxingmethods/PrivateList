@@ -1,24 +1,18 @@
 {
-    "id": 57436521,
-    "name": "HI GDPS!",
+    "id": 102,
+    "name": "Stereo Madness X",
     "author": "Bagel",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "creators": ["Bagel"],
+    "verifier": "Bagel",
+    "verification": "NONE",
+    "percentToQualify": "92",
+    "password": "Free to Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "ZynixGD",
+            "link": "we are not in need of this on a 5 star vro",
             "percent": 100,
-            "hz": 360
+            "hz": 180
         },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }
