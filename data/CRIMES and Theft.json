@@ -1,12 +1,12 @@
 {
-    "id": 111,
+    "id": 112,
     "name": "Crimes and Theft",
     "author": "ZynixGD",
-    "creators": ["ZynixGD, Bagel"],
+    "creators": ["ZynixGD and Bagel"],
     "verifier": "ZynixGD",
     "verification": "https://youtu.be/6WDYlCxuXT0",
-    "percentToQualify": "100",
-    "password": "Free to Copy",
+    "percentToQualify": "55",
+    "password": "Free to copy",
     "records": [
         {
             "user": "ZynixGD",
@@ -14,5 +14,11 @@
             "percent": 100,
             "hz": 180
         },
+        {
+            "user": "Link ( Playtester, has not beaten )",
+            "link": "NONE",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
