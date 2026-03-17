@@ -1,1 +1,24 @@
-
+{
+    "id": 112,
+    "name": "Fisherman",
+    "author": "Bagel",
+    "creators": ["Bagel"],
+    "verifier": "Bagel",
+    "verification": "https://youtu.be/m-uWNvjcXVI",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "ZynixGD ( Showcaser ) ",
+            "link": "https://youtu.be/m-uWNvjcXVI",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "Link",
+            "link": "Creator and Verifier. why a completion??",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
