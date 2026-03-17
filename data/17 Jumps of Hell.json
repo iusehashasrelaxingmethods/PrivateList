@@ -1,1 +1,24 @@
-
+{
+    "id": 112,
+    "name": "17 jumps of Hell",
+    "author": "Bagel",
+    "creators": ["Bagel"],
+    "verifier": "ZynixGD",
+    "verification": "https://youtu.be/XgMMScN2NeA",
+    "percentToQualify": "55",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "ZynixGD",
+            "link": "https://youtu.be/XgMMScN2NeA",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "Link ( Playtester, has not beaten )",
+            "link": "NONE",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
